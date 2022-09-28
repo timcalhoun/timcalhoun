@@ -1,13 +1,12 @@
 ![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_94505925_stock-vector-vector-line-web-banner-for-data-science.html&psig=AOvVaw3NgGv3vJtHYwSbyeB9g_f2&ust=1664471201115000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj2qMv8t_oCFQAAAAAdAAAAABAw)
 
-I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I'm currently working full time, while pursuing a Certificate in Data Science from Bethel School of Technology. I love looking at what visualizations data can make after being wrangled and correlated.  I'm learning more about SQL currently on the side from DataCamp and that has been a lot of fun.
 
-For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+For my DS projects, I'm currently learning about GitHub and the workings of how to present my knowledge.  What I love about Data Science, is I'm always learning something new every second, every minute, every hour, every day, every week, every month, and every year. 
 
-- 🌱 I’m currently learning HTML, CSS, Python, and C++.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
-- 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about fountain pens.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- 🌱 I’m currently learning R, Python, SQL, Machine Learning, Tableau.
+- 🔭 I’m currently working on building projects to further my knowledge.
+- 😀 In my free time I like to golf, hang with my wife & 2 kids, drink breve lattes, and eat tacos.
+- ⚡ Fun fact: I've "lived" in 6 states.
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's Github Stats](https://github-readme-stats.vercel.app/api?username=timcalhoun)](https://github.com/anuraghazra/github-readme-stats)
