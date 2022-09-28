@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_94505925_stock-vector-vector-line-web-banner-for-data-science.html&psig=AOvVaw3NgGv3vJtHYwSbyeB9g_f2&ust=1664471201115000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKj2qMv8t_oCFQAAAAAdAAAAABAw)
+![Banner](https://github.com/timcalhoun/timcalhoun/blob/master/Data%20Science%20Banner.png)
 
 I'm currently working full time, while pursuing a Certificate in Data Science from Bethel School of Technology. I love looking at what visualizations data can make after being wrangled and correlated.  I'm learning more about SQL currently on the side from DataCamp and that has been a lot of fun.
 
