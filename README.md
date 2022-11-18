@@ -4,8 +4,8 @@ I'm currently working full time, while pursuing a Certificate in Data Science fr
 
 For my DS projects, I'm currently learning about GitHub and the workings of how to present my knowledge.  What I love about Data Science, is I'm always learning something new every second, every minute, every hour, every day, every week, every month, and every year. 
 
-- 🔓 I’m currently learning R, Python, SQL, Machine Learning, Tableau.
-- ⚒️ I’m currently working on building projects to further my knowledge.
+- 🔓 Learning R, Python, SQL, Machine Learning, Tableau.
+- ⚒️ Working on building projects to further my knowledge.
 - :sunrise: In my free time I like to golf🏌️‍♂️, hang with my wife & 2 kids:family_man_woman_girl_boy:, drink breve lattes:coffee:, and eat 🌮🌮🌮.
 - 🙃 Fun fact: I have "lived" in 6 states.
 
